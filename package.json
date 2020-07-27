@@ -1,0 +1,11 @@
+{
+  "name": "dailytodo",
+  "version": "1.0.0",
+  "description": "Your Daily To Do ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vera Krutsina",
+  "license": "ISC"
+}
